@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.085e235d.css",
+    "main.js": "/static/js/main.02120fbf.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/background-video.mkv": "/static/media/background-video.d4a7ad450182431033d2.mkv",
+    "static/media/Abstract2.png": "/static/media/Abstract2.3dd3cb0f72445601281f.png",
+    "static/media/cave.png": "/static/media/cave.e92861e505be1b10ed53.png",
+    "static/media/pray-the-hours.jpg": "/static/media/pray-the-hours.13ac1c08566dac609438.jpg",
+    "static/media/treestump.jpg": "/static/media/treestump.e7447ca2d9dd47a4a262.jpg",
+    "static/media/christmas-tree.jpg": "/static/media/christmas-tree.449a14c2059dcfa94159.jpg",
+    "static/media/random-poem.jpg": "/static/media/random-poem.11836c98c8f0fcae24fc.jpg",
+    "static/media/laurens-southgate.jpg": "/static/media/laurens-southgate.dc8266b0b6a7ad3b6e33.jpg",
+    "static/media/load-toad.jpg": "/static/media/load-toad.a290abc78158713d4314.jpg",
+    "static/media/guitar.jpg": "/static/media/guitar.8d1cfe795c3de60e51b4.jpg",
+    "static/media/playing-cards.jpg": "/static/media/playing-cards.384e5bb53cd080256d0a.jpg",
+    "static/media/todo-list.jpg": "/static/media/todo-list.ae734fe978e961689758.jpg",
+    "static/media/binoculars.jpg": "/static/media/binoculars.d9bd184e39e190a3b729.jpg",
+    "static/media/ramp.jpg": "/static/media/ramp.401f0dad5580fd6c7dad.jpg",
+    "static/media/table.jpg": "/static/media/table.0cdea357e1ecac7c0f31.jpg",
+    "index.html": "/index.html",
+    "main.085e235d.css.map": "/static/css/main.085e235d.css.map",
+    "main.02120fbf.js.map": "/static/js/main.02120fbf.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.085e235d.css",
+    "static/js/main.02120fbf.js"
+  ]
+}
