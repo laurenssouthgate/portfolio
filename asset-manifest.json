@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7c934cec.css",
-    "main.js": "/static/js/main.2d2f7131.js",
+    "main.js": "/static/js/main.39bf9f78.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/background-video.mkv": "/static/media/background-video.d4a7ad450182431033d2.mkv",
     "static/media/abandoned-house.png": "/static/media/abandoned-house.b31c4fdb1c193a2b86c0.png",
@@ -9,6 +9,7 @@
     "static/media/cave.png": "/static/media/cave.e92861e505be1b10ed53.png",
     "static/media/pray-the-hours.jpg": "/static/media/pray-the-hours.13ac1c08566dac609438.jpg",
     "static/media/treestump.jpg": "/static/media/treestump.e7447ca2d9dd47a4a262.jpg",
+    "static/media/3d-drink-ad.png": "/static/media/3d-drink-ad.9a76b6741e85bee32f60.png",
     "static/media/christmas-tree.jpg": "/static/media/christmas-tree.449a14c2059dcfa94159.jpg",
     "static/media/random-poem.jpg": "/static/media/random-poem.11836c98c8f0fcae24fc.jpg",
     "static/media/laurens-southgate.jpg": "/static/media/laurens-southgate.dc8266b0b6a7ad3b6e33.jpg",
@@ -22,11 +23,11 @@
     "static/media/table.jpg": "/static/media/table.0cdea357e1ecac7c0f31.jpg",
     "index.html": "/index.html",
     "main.7c934cec.css.map": "/static/css/main.7c934cec.css.map",
-    "main.2d2f7131.js.map": "/static/js/main.2d2f7131.js.map",
+    "main.39bf9f78.js.map": "/static/js/main.39bf9f78.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7c934cec.css",
-    "static/js/main.2d2f7131.js"
+    "static/js/main.39bf9f78.js"
   ]
 }
