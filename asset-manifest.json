@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7c934cec.css",
-    "main.js": "/static/js/main.e0e756d0.js",
+    "main.js": "/static/js/main.07c01af5.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/background-video.mkv": "/static/media/background-video.d4a7ad450182431033d2.mkv",
     "static/media/abandoned-house.png": "/static/media/abandoned-house.b31c4fdb1c193a2b86c0.png",
@@ -23,11 +23,11 @@
     "static/media/table.jpg": "/static/media/table.0cdea357e1ecac7c0f31.jpg",
     "index.html": "/index.html",
     "main.7c934cec.css.map": "/static/css/main.7c934cec.css.map",
-    "main.e0e756d0.js.map": "/static/js/main.e0e756d0.js.map",
+    "main.07c01af5.js.map": "/static/js/main.07c01af5.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7c934cec.css",
-    "static/js/main.e0e756d0.js"
+    "static/js/main.07c01af5.js"
   ]
 }
